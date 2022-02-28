@@ -1,0 +1,84 @@
+﻿[Window]
+title = "My application"
+width = 800
+height = 600
+sizable = false
+
+[Scene]
+background = "(0.8, 0.9, 1.0)"
+
+[Array]
+values = [11, 22, 33, 44, 55]
+
+[point]
+pos = {x = 400, y= 400}
+
+[error]
+e = 20
+
+[radius]
+r = 35
+
+[gravity]
+g = 2.5
+
+[[Items]]
+
+path = "🐺"
+
+[[Items]]
+
+path = "🦈"
+
+[[Items]]
+
+path = "😺"
+
+[[Items]]
+
+path = "🐟"
+
+[[Items]]
+
+path = "😈"
+
+[[Items]]
+
+path = "🐉"
+
+[[Items]]
+
+path = "🐹"
+
+[[Items]]
+
+path = "🐗"
+
+[[Items]]
+
+path = "🐬"
+
+[[Items]]
+
+path = "🐋"
+
+[[Items]]
+
+path = "🐤"
+
+[[Items]]
+
+path = "🐢"
+
+[[Items]]
+
+path = "🦂"
+
+[[Items]]
+
+path = "🦑"
+
+[[Items]]
+
+path = "🦄"
+
