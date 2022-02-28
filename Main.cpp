@@ -2,7 +2,7 @@
 
 #include"Load_Function.h"
 
-const FilePath tomlPath = FileSystem::FullPath(U"example/config/config.toml");
+const FilePath tomlPath = FileSystem::FullPath(U"config.toml");
 
 struct EmojiData
 {
